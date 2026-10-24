@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Keep large original videos outside Git if appropriate; upload them to the teacher-provided Drive.
+data/original_video.mp4

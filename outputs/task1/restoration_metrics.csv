@@ -1,0 +1,5 @@
+experiment,noisy_psnr_db,noisy_ssim,restored_psnr_db,restored_ssim
+Gaussian noise + Gaussian filter,22.2919,0.269516,32.783,0.8083
+Gaussian noise + median filter,22.2919,0.269516,32.0337,0.790876
+Salt-and-pepper + median filter,19.1424,0.34434,37.0982,0.952298
+Salt-and-pepper + Gaussian filter,19.1424,0.34434,30.0152,0.725414
