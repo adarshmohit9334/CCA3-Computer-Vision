@@ -1,0 +1,6 @@
+detector,label,x,y,width,height,confidence
+Haar cascade,face,2348,312,195,195,not provided by Haar cascade
+Haar cascade,face,2025,2156,68,68,not provided by Haar cascade
+Haar cascade,face,85,2339,61,61,not provided by Haar cascade
+Haar cascade,face,1583,3496,38,38,not provided by Haar cascade
+Haar cascade,face,1582,3648,54,54,not provided by Haar cascade

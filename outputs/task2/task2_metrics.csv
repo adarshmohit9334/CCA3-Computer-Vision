@@ -1,0 +1,3 @@
+comparison,photo1_sift_keypoints,photo2_sift_keypoints,photo1_hog_feature_count,photo2_hog_feature_count,good_sift_matches
+Original views,1501,1500,595404,595404,253
+Photo 1 vs rotated Photo 2 (+15 degrees),1501,1500,595404,595404,238
